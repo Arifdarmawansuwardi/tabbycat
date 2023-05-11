@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:25-0400\n"
-"PO-Revision-Date: 2023-05-11 22:04\n"
+"PO-Revision-Date: 2023-05-11 23:19\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -26,7 +26,7 @@ msgstr[1] ""
 
 #: draw/admin.py
 msgid "Mark sides as not confirmed"
-msgstr ""
+msgstr "Marca els bancades com a no confirmats"
 
 #: draw/admin.py
 #, python-format
@@ -172,11 +172,11 @@ msgstr ""
 
 #: draw/models.py
 msgid "none"
-msgstr ""
+msgstr "Cap"
 
 #: draw/models.py
 msgid "postponed"
-msgstr ""
+msgstr "posposat"
 
 #: draw/models.py
 msgid "draft"
@@ -212,7 +212,7 @@ msgstr "estat del resultat"
 
 #: draw/models.py
 msgid "sides confirmed"
-msgstr ""
+msgstr "bàndols confirmats"
 
 #: draw/models.py
 msgid "If unchecked, the sides assigned to teams in this debate are just placeholders."
@@ -224,7 +224,7 @@ msgstr "debat"
 
 #: draw/models.py
 msgid "debates"
-msgstr ""
+msgstr "debats"
 
 #. Translators: This is appended to a list of teams, e.g. "Auckland
 #. 1, Vic Wellington 1 (sides not confirmed)". Mind the leading
@@ -237,31 +237,31 @@ msgstr ""
 #. vs Vic Wellington 1". Mind the leading and trailing spaces.
 #: draw/models.py
 msgid " vs "
-msgstr ""
+msgstr " contra "
 
 #: draw/models.py
 msgid "affirmative"
-msgstr ""
+msgstr "afirmatiu"
 
 #: draw/models.py
 msgid "negative"
-msgstr ""
+msgstr "negatiu"
 
 #: draw/models.py
 msgid "opening government"
-msgstr ""
+msgstr "alta de govern"
 
 #: draw/models.py
 msgid "opening opposition"
-msgstr ""
+msgstr "alta d'oposició"
 
 #: draw/models.py
 msgid "closing government"
-msgstr ""
+msgstr "baixa de govern"
 
 #: draw/models.py
 msgid "closing opposition"
-msgstr ""
+msgstr "baixa d'oposició"
 
 #: draw/models.py
 msgid "team"
@@ -269,52 +269,52 @@ msgstr "equip"
 
 #: draw/models.py
 msgid "side"
-msgstr ""
+msgstr "bancada"
 
 #: draw/models.py
 msgid "debate team"
-msgstr ""
+msgstr "equip de debat"
 
 #: draw/models.py
 msgid "debate teams"
-msgstr ""
+msgstr "equips de debat"
 
 #: draw/models.py
 #, python-format
 msgid "placed %(place)s"
-msgstr ""
+msgstr "col·locat %(place)s"
 
 #: draw/models.py
 msgid "result unknown"
-msgstr ""
+msgstr "resultat desconegut"
 
 #: draw/models.py
 msgid "won"
-msgstr ""
+msgstr "va guanyar"
 
 #: draw/models.py
 msgid "lost"
-msgstr ""
+msgstr "va perdre"
 
 #: draw/models.py
 msgid "team side allocation"
-msgstr ""
+msgstr "assignació per equip"
 
 #: draw/models.py
 msgid "team side allocations"
-msgstr ""
+msgstr "assignacions per equip"
 
 #. Translators: e.g. "Affirmative: Rank", "Government: Draw strength",
 #. "Opening government: Total speaker score", "Closing opposition: Number of firsts"
 #: draw/tables.py
 #, python-format
 msgid "%(side)s: %(metric)s"
-msgstr ""
+msgstr "%(side)s: %(metric)s"
 
 #: draw/tables.py
 #, python-format
 msgid "Team %(num)d"
-msgstr ""
+msgstr "Equip %(num)d"
 
 #: draw/tables.py
 msgid "Room rank of this debate"
@@ -356,15 +356,15 @@ msgstr ""
 
 #: draw/tables.py
 msgid "Side"
-msgstr ""
+msgstr "Bancada"
 
 #: draw/tables.py
 msgid "Position this round"
-msgstr ""
+msgstr "Posicioneu aquesta ronda"
 
 #: draw/tables.py
 msgid "Before"
-msgstr ""
+msgstr "Abans"
 
 #: draw/tables.py
 msgid "Side history before this round"
@@ -372,7 +372,7 @@ msgstr ""
 
 #: draw/tables.py
 msgid "After"
-msgstr ""
+msgstr "Després"
 
 #: draw/tables.py
 msgid "Side history after this round"
@@ -380,15 +380,15 @@ msgstr ""
 
 #: draw/tables.py
 msgid "Cost"
-msgstr ""
+msgstr "Cost"
 
 #: draw/tables.py
 msgid "Position cost"
-msgstr ""
+msgstr "Cost de la posició"
 
 #: draw/tables.py
 msgid "Status"
-msgstr ""
+msgstr "Estat"
 
 #: draw/tables.py
 msgid "Teams with this many points are permitted in this debate<br>\n"
@@ -526,7 +526,7 @@ msgstr ""
 #: draw/templates/draw_base.html draw/templates/draw_display_admin.html
 #: draw/templates/draw_display_assistant.html
 msgid "Display Draw"
-msgstr ""
+msgstr "Mostrar aparellaments"
 
 #: draw/templates/draw_confirm_regeneration.html
 msgid "Confirm draw regeneration"
