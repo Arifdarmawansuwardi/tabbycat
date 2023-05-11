@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:25-0400\n"
-"PO-Revision-Date: 2023-02-12 06:28\n"
+"PO-Revision-Date: 2023-05-11 23:19\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: motions/models.py
 msgid "debate team"
-msgstr ""
+msgstr "equip de debat"
 
 #: motions/models.py
 msgid "preferences"
@@ -280,7 +280,7 @@ msgstr[1] ""
 
 #: motions/templates/motions_edit.html
 msgid "Display Draw"
-msgstr ""
+msgstr "Mostrar aparellaments"
 
 #: motions/templates/motions_edit.html
 msgid "This will replace all existing motions for this round. The motions themselves will still be in the database."
