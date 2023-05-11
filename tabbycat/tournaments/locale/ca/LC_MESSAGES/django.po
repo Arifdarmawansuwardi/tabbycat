@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-12 02:04-0400\n"
-"PO-Revision-Date: 2023-02-12 06:15\n"
+"PO-Revision-Date: 2023-05-11 23:19\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -20,87 +20,87 @@ msgstr ""
 
 #: tournaments/apps.py
 msgid "Tournaments"
-msgstr ""
+msgstr "Tornejos"
 
 #: tournaments/forms.py
 msgid "Number of preliminary rounds"
-msgstr ""
+msgstr "Nombre de rondes preliminars"
 
 #: tournaments/forms.py
 msgid "Number of teams in the open break"
-msgstr ""
+msgstr "Nombre d'equips al tall obert"
 
 #: tournaments/forms.py
 msgid "Leave blank if there are no break rounds."
-msgstr ""
+msgstr "Deixeu en blanc si no hi ha rondes eliminatòries."
 
 #: tournaments/forms.py
 msgid "Did you agree with their decision?"
-msgstr ""
+msgstr "Estaveu d'acord amb la seva decisió?"
 
 #: tournaments/forms.py
 msgid "Agree?"
-msgstr ""
+msgstr "D`acord?"
 
 #: tournaments/forms.py
 msgid "Comments"
-msgstr ""
+msgstr "Comentaris"
 
 #. Translators: This is the name given to the 'Open Break'.
 #: tournaments/forms.py
 msgid "Open"
-msgstr ""
+msgstr "Obre"
 
 #: tournaments/forms.py
 msgid "Format Configuration"
-msgstr ""
+msgstr "Configuració del format"
 
 #: tournaments/forms.py
 msgid "Apply a standard set of settings to match a common debate format"
-msgstr ""
+msgstr "Apliqueu un conjunt estàndard de paràmetres perquè coincideixi amb un format de debat comú"
 
 #: tournaments/forms.py
 msgid "Public Configuration"
-msgstr ""
+msgstr "Configuració pública"
 
 #: tournaments/forms.py
 msgid "Show non-sensitive information on the public-facing side of this site, like draws (once released) and the motions of previous rounds"
-msgstr ""
+msgstr "Mostra informació no sensible a la part pública d'aquest lloc, com ara els sortejos (un cop publicats) i les mocions de les rondes anteriors"
 
 #: tournaments/forms.py
 msgid "<strong>Tabulation:</strong> [list tabulation staff here]<br /><strong>Equity:</strong> [list equity members here]<br /><strong>Organisation:</strong> [list organising committee members here]<br /><strong>Adjudication:</strong> [list chief adjudicators here]"
-msgstr ""
+msgstr "<strong>Tabulació</strong> [llista l'equip de tabulació aquí]<br /><strong>Equitat</strong> [llista l'equip d'equitat aquí]<br /><strong>Organització:</strong> [llista l'equip d'Organització aquí]<br /><strong>Adjudicació:</strong> [llista l'equip d'adjudicació aquí]"
 
 #: tournaments/forms.py
 msgid "Current preliminary round"
-msgstr ""
+msgstr "Ronda preliminar actual"
 
 #: tournaments/forms.py
 msgid "All preliminary rounds have been completed"
-msgstr ""
+msgstr "S'han completat totes les rondes preliminars"
 
 #: tournaments/forms.py
 #, python-format
 msgid "Current elimination round in <strong>%(category)s</strong> <em>(only if all preliminary rounds have been completed)</em>"
-msgstr ""
+msgstr "Actual ronda eliminatòria <strong>%(category)s</strong> <em>(només si s'han completat totes les rondes preliminars)</em>"
 
 #: tournaments/forms.py
 #, python-format
 msgid "All elimination rounds in %(category)s have been completed"
-msgstr ""
+msgstr "S'han completat totes les rondes eliminatòries en %(category)s"
 
 #: tournaments/forms.py
 msgid "If the current round is a preliminary round, this field must be blank."
-msgstr ""
+msgstr "Si la ronda actual és una ronda preliminar, aquest camp ha d'estar en blanc."
 
 #: tournaments/forms.py
 msgid "If all preliminary rounds have been completed, this field is required."
-msgstr ""
+msgstr "Si s'han completat totes les rondes preliminars, aquest camp és obligatori."
 
 #: tournaments/forms.py
 #, python-format
 msgid "%(name)s (%(abbreviation)s)"
-msgstr ""
+msgstr "%(name)s (%(abbreviation)s)"
 
 #: tournaments/mixins.py
 #, python-format
@@ -167,27 +167,27 @@ msgstr ""
 
 #: tournaments/models.py
 msgid "active"
-msgstr ""
+msgstr "actiu"
 
 #: tournaments/models.py
 msgid "tournament"
-msgstr ""
+msgstr "torneig"
 
 #: tournaments/models.py
 msgid "tournaments"
-msgstr ""
+msgstr "tornejos"
 
 #: tournaments/models.py
 msgid "Random"
-msgstr ""
+msgstr "A l'atzar"
 
 #: tournaments/models.py
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 #: tournaments/models.py
 msgid "Round-robin"
-msgstr ""
+msgstr "Round-robin"
 
 #: tournaments/models.py
 msgid "Power-paired"
@@ -195,23 +195,23 @@ msgstr ""
 
 #: tournaments/models.py
 msgid "Elimination"
-msgstr ""
+msgstr "Eliminació"
 
 #: tournaments/models.py
 msgid "Preliminary"
-msgstr ""
+msgstr "Preliminar"
 
 #: tournaments/models.py
 msgid "None"
-msgstr ""
+msgstr "Cap"
 
 #: tournaments/models.py
 msgid "Draft"
-msgstr ""
+msgstr "Esborrany"
 
 #: tournaments/models.py
 msgid "Confirmed"
-msgstr ""
+msgstr "Confirmat"
 
 #: tournaments/models.py
 msgid "Released"
@@ -223,7 +223,7 @@ msgstr ""
 
 #: tournaments/models.py
 msgid "completed"
-msgstr ""
+msgstr "completat"
 
 #: tournaments/models.py
 msgid "True if the round is over, which normally means all results have been entered and confirmed"
@@ -821,11 +821,11 @@ msgstr ""
 
 #: tournaments/utils.py
 msgid "affirmative"
-msgstr ""
+msgstr "afirmatiu"
 
 #: tournaments/utils.py
 msgid "negative"
-msgstr ""
+msgstr "negatiu"
 
 #: tournaments/utils.py
 msgid "affirmative team"
@@ -929,19 +929,19 @@ msgstr ""
 
 #: tournaments/utils.py
 msgid "opening government"
-msgstr ""
+msgstr "alta de govern"
 
 #: tournaments/utils.py
 msgid "opening opposition"
-msgstr ""
+msgstr "alta d'oposició"
 
 #: tournaments/utils.py
 msgid "closing government"
-msgstr ""
+msgstr "baixa de govern"
 
 #: tournaments/utils.py
 msgid "closing opposition"
-msgstr ""
+msgstr "baixa d'oposició"
 
 #: tournaments/utils.py
 msgid "opening government team"
